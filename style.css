@@ -1,0 +1,35 @@
+body {
+  background: lavender;
+}
+h4 {
+  color: black;
+  font-family: cursive;
+}
+h1 {
+  font-weight: bold;
+  color: cornflowerblue;
+  text-decoration:overline;
+}
+img{
+  margin: 4px;
+    border-style: double;
+  border-radius: 6px;
+    border-width: thick;
+    width:50%;
+    height:50%
+}
+.body{
+  
+  color: rgb(0,0,0);
+}
+li{
+    color: cornflowerblue;
+    font-family: cursive
+}
+a{
+    color:black;
+    margin:60px;
+    background: cornflowerblue;
+    
+    
+}
